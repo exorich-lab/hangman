@@ -7,11 +7,15 @@
 
 _Склонируйте репозиторий из GitHub_
 
-```git clone git://github.com/exorich-lab/hangman.git```
+```
+git clone git://github.com/exorich-lab/hangman.git
+```
 
 _Перейдите в папку с игрой_
 
-```cd hangman```
+```
+cd hangman
+```
 
 _Запустите игру_
 ```
